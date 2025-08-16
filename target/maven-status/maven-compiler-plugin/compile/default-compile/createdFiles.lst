@@ -1,11 +1,6 @@
-com\shirtms\deliverydispatch\entity\Dispatch.class
-com\shirtms\deliverydispatch\service\DeliveryServiceImpl.class
-com\shirtms\deliverydispatch\controller\DispatchController.class
-com\shirtms\deliverydispatch\DeliveryDispatchServiceApplication.class
-com\shirtms\deliverydispatch\repository\DispatchRepository.class
-com\shirtms\deliverydispatch\service\DispatchService.class
-com\shirtms\deliverydispatch\entity\Delivery.class
-com\shirtms\deliverydispatch\repository\DeliveryRepository.class
-com\shirtms\deliverydispatch\service\DispatchServiceImpl.class
-com\shirtms\deliverydispatch\controller\DeliveryController.class
-com\shirtms\deliverydispatch\service\DeliveryService.class
+com\shirtms\deliverydispatch\entity\DeliveryDispatch.class
+com\shirtms\deliverydispatch\service\DeliveryDispatchServiceImpl.class
+com\shirtms\deliverydispatch\repository\DeliveryDispatchRepository.class
+com\shirtms\deliverydispatch\service\DeliveryDispatchService.class
+com\shirtms\deliverydispatch\DeliveryDispatchApplication.class
+com\shirtms\deliverydispatch\controller\DeliveryDispatchController.class

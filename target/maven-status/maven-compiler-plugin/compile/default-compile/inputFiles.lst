@@ -1,11 +1,6 @@
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\controller\DeliveryController.java
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\service\DispatchService.java
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\entity\Delivery.java
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\repository\DeliveryRepository.java
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\service\DeliveryServiceImpl.java
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\DeliveryDispatchServiceApplication.java
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\repository\DispatchRepository.java
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\controller\DispatchController.java
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\service\DeliveryService.java
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\entity\Dispatch.java
-E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\service\DispatchServiceImpl.java
+E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\entity\DeliveryDispatch.java
+E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\controller\DeliveryDispatchController.java
+E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\service\DeliveryDispatchService.java
+E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\repository\DeliveryDispatchRepository.java
+E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\service\DeliveryDispatchServiceImpl.java
+E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\DeliveryDispatchApplication.java
