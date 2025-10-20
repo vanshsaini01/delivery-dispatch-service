@@ -3,4 +3,5 @@ E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\controll
 E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\service\DeliveryDispatchService.java
 E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\repository\DeliveryDispatchRepository.java
 E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\service\DeliveryDispatchServiceImpl.java
+E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\config\CorsConfig.java
 E:\delivery-dispatch-service\src\main\java\com\shirtms\deliverydispatch\DeliveryDispatchApplication.java

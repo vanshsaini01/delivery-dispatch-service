@@ -16,7 +16,7 @@ import com.shirtms.deliverydispatch.entity.DeliveryDispatch;
 import com.shirtms.deliverydispatch.service.DeliveryDispatchService;
 
 @RestController
-@RequestMapping("/api/records")
+@RequestMapping("/api/delivery-dispatch")
 public class DeliveryDispatchController {
 
     @Autowired
@@ -25,6 +25,17 @@ public class DeliveryDispatchController {
     @PostMapping
     public DeliveryDispatch createRecord(@RequestBody DeliveryDispatch record) {
         return deliveryDispatchService.createRecord(record);
+    }
+
+    @GetMapping("/health")
+    public String healthCheck() {
+        return "Delivery-Dispatch Service is running!";
+    }
+
+    //Eureka 
+    @GetMapping("/")
+    public String home() {
+        return "✅ Delivery-Dispatch Service is up and running!";
     }
 
     @GetMapping("/{id}")
@@ -46,4 +57,5 @@ public class DeliveryDispatchController {
     public void deleteRecord(@PathVariable Long id) {
         deliveryDispatchService.deleteRecord(id);
     }
+
 }
